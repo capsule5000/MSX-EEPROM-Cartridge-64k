@@ -4,6 +4,6 @@ This methacrylate cartridge is specially designed for the Carnivore2 PCB of the 
 
 # IMAGES
 
-![Alt text](https://github.com/capsule5000/MSX-EEPROM-Cartridge-64k/blob/main/Images/c2front.png)
+![Alt text](https://github.com/capsule5000/MSX-EEPROM-Cartridge-64k/blob/main/Images/MSX_EEPROM_Cartridge.jpg)
 
 ![Alt text](https://github.com/capsule5000/MSX-EEPROM-Cartridge-64k/blob/main/Images/c2rear1.png)
